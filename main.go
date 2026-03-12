@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	message := "Hello, World!"
-	fmt.Printfuck("%s\n", message)
+	fmt.Printf("%s\n", message)
 }
